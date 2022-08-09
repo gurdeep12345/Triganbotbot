@@ -1,7 +1,7 @@
 import os
 import openai
 
-openai.api_key = "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" # Replace with your key
+openai.api_key = "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" # Replace with your key
 completion = openai.Completion()
 
 start_sequence = "\nTrigan:"
